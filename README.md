@@ -11,8 +11,8 @@ if (🖥️ === 🎮) {
   location.href = 'https://Dev9er.github.io'
 }
 ```
-[블로그](https://Dev9er.github.io)  
-[Github](https://github.com/Dev9er)
+[블로그](https://Dev9er.github.io)
+
 <!---
 Dev9er/Dev9er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
