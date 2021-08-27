@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SungBae Park.
+- 👋 Hi, I’m John Park.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Software Programming.
 - 💞️ I’m looking to collaborate on ...
